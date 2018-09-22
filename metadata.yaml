@@ -1,0 +1,27 @@
+_repo: Un-hollandais-a-Paris-en-1891-Sensations-de-litterature-et-d-art_55855
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Byvanck, Willem
+    gutenberg_agent_id: '48552'
+    url: http://www.gutenberg.org/2009/agents/48552
+description: ''
+gutenberg_bookshelf:
+- FR Chroniques
+- FR Littérature francophone
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Littérature
+gutenberg_issued: '2017-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55855'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Un hollandais à Paris en 1891
+
+  Sensations de littérature et d''art'
+url: http://www.gutenberg.org/ebooks/55855
